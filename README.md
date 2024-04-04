@@ -11,3 +11,6 @@ A google chrome extension that displays an in-page overlay for FanDuel to show y
 4. The extension should now be installed and ready to use
 5. Navigate to your FanDuel upcoming tab and within a few seconds the overlay should appear (the more lineups you have the longer it will take to load)
 
+## Will this extension steal my data, my lineups or my money?
+No, this extension does not have access to any of your personal data, lineups, or money. The extension only reads the data that is already displayed on the FanDuel upcoming lineups page and displays it in a more user-friendly way. The code base is open source and can be viewed by anyone, so you can verify that it is not doing anything malicious. If you are still concerned, you can always disable the extension when you are not using it.
+
