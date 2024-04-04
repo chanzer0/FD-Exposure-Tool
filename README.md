@@ -1,6 +1,9 @@
 # FD-Exposure-Tool
 A google chrome extension that displays an in-page overlay for FanDuel to show your upcoming lineups player exposures and team stack exposures.
 
+## Like what you see?
+If you like this extension, check out our optimizer and simulation tools at [AceMind](https://acemind.io) or come join our discord server at [AceMind Discord](https://discord.com/invite/BCjrz7eVkQ) to chat with other DFS players.
+
 ## Example Overlay
 ![Example Overlay](readme_images/overlay.png)
 
