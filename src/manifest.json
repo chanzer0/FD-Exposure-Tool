@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "FanDuel Exposure Tool",
+    "description": "A google chrome extension to display your player, team and game exposures on the FanDuel Upcoming tab.",
+    "content_scripts": [
+        {
+          "matches": ["https://www.fanduel.com/upcoming",  "https://www.fanduel.com/upcoming?lineupEdited=%E2%9C%93"],
+          "js": ["content.bundle.js"]
+        }
+    ],
+    "action": {},
+    "icons": {
+        "128": "icon-128.png"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": ["icon-128.png"],
+            "matches": []
+        }
+    ],
+    "host_permissions": [
+        "*://www.fanduel.com/*"
+    ],
+    "permissions": ["activeTab"]
+}
