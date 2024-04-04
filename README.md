@@ -2,7 +2,7 @@
 A google chrome extension that displays an in-page overlay for FanDuel to show your upcoming lineups player exposures and team stack exposures.
 
 ## Example Overlay
-![Example Overlay](https://imgur.com/X6lOlaz)
+![Example Overlay](readme_images/overlay.png)
 
 ## Installation
 1. Download the latest release zip file from the /releases folder
